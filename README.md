@@ -6,3 +6,4 @@ pkg upgrade
 screenfetch
 rxfetch
 apt list 
+##JACK 
